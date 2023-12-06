@@ -1,0 +1,7 @@
+C:\Users\ZuckerkaBarm\Desktop\сурпо\New-repository\surpo\surpo\obj\Debug\surpo.csproj.AssemblyReference.cache
+C:\Users\ZuckerkaBarm\Desktop\сурпо\New-repository\surpo\surpo\obj\Debug\surpo.csproj.CoreCompileInputs.cache
+C:\Users\ZuckerkaBarm\Desktop\сурпо\New-repository\surpo\surpo\bin\Debug\surpo.exe.config
+C:\Users\ZuckerkaBarm\Desktop\сурпо\New-repository\surpo\surpo\bin\Debug\surpo.exe
+C:\Users\ZuckerkaBarm\Desktop\сурпо\New-repository\surpo\surpo\bin\Debug\surpo.pdb
+C:\Users\ZuckerkaBarm\Desktop\сурпо\New-repository\surpo\surpo\obj\Debug\surpo.exe
+C:\Users\ZuckerkaBarm\Desktop\сурпо\New-repository\surpo\surpo\obj\Debug\surpo.pdb
